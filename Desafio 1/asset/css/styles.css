@@ -1,0 +1,11 @@
+
+img {
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+
+
+.img-con-borde {
+    border: 2px solid red;
+}
